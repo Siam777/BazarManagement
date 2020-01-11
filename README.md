@@ -1,0 +1,2 @@
+# BazarManagement
+BazarManagementApp
